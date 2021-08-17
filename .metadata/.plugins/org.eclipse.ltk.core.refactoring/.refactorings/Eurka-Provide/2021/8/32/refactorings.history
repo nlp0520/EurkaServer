@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MainController.java&apos; to &apos;Eurka-Consumer/src/main/java/com.example.eurkaconsumer&apos;&#x0D;&#x0A;- Original project: &apos;Eurka-Provide&apos;&#x0D;&#x0A;- Destination element: &apos;Eurka-Consumer/src/main/java/com.example.eurkaconsumer&apos;&#x0D;&#x0A;- Original element: &apos;com.example.eurkaprovide.MainController.java&apos;" description="Copy compilation unit" destination="=Eurka-Consumer/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.eurkaconsumer" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.eurkaprovide{MainController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1627916732623" units="1" version="1.0"/>
+</session>

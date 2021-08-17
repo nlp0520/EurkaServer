@@ -1,0 +1,7 @@
+
+#向那个服务器发送请求
+eureka.client.serviceUrl.defaultZone=http://euk2.com:7902/eureka/
+#设置当前服务的名字
+spring.application.name=user-provide
+#设置当前服务的端口号
+server.port=90

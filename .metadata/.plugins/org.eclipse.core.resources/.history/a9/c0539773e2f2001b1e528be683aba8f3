@@ -1,0 +1,12 @@
+package com.example.eurkaprovide;
+
+import org.springframework.web.bind.annotation.GetMapping;
+
+public class MainController {
+	
+	@GetMapping("/getHello")
+	public String getHello() {
+		return "Hello";
+	}
+
+}

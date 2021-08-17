@@ -1,0 +1,11 @@
+package com.example.Userprovider;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class UserController {
+	
+	public String alive(){
+		re
+	}
+}

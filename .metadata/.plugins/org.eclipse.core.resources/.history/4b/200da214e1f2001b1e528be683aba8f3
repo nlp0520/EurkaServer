@@ -1,0 +1,6 @@
+
+eureka.client.serviceUrl.defaultZone=http://euk2.com:7902/eureka/
+
+spring.application.name=provide
+
+server.port=80

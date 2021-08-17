@@ -1,0 +1,5 @@
+package com.example.eurkaprovide;
+
+public class HealthStatusService {
+
+}

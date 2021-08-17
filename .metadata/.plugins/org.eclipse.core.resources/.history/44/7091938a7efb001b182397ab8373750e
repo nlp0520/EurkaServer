@@ -1,0 +1,14 @@
+package com.example.Userconsomer;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class UserController {
+
+	UserAPI api;
+	
+	
+	public String alive() {
+		return "";
+	}
+}
